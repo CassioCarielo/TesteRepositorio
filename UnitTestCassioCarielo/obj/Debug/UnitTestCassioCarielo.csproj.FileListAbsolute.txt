@@ -1,0 +1,8 @@
+C:\Users\Cassio\Documents\TesteImposto\UnitTestCassioCarielo\bin\Debug\UnitTestCassioCarielo.dll
+C:\Users\Cassio\Documents\TesteImposto\UnitTestCassioCarielo\bin\Debug\UnitTestCassioCarielo.pdb
+C:\Users\Cassio\Documents\TesteImposto\UnitTestCassioCarielo\bin\Debug\Imposto.Core.dll
+C:\Users\Cassio\Documents\TesteImposto\UnitTestCassioCarielo\bin\Debug\Imposto.Core.pdb
+C:\Users\Cassio\Documents\TesteImposto\UnitTestCassioCarielo\obj\Debug\UnitTestCassioCarielo.csprojResolveAssemblyReference.cache
+C:\Users\Cassio\Documents\TesteImposto\UnitTestCassioCarielo\obj\Debug\UnitTestCassioCarielo.dll
+C:\Users\Cassio\Documents\TesteImposto\UnitTestCassioCarielo\obj\Debug\UnitTestCassioCarielo.pdb
+C:\Users\Cassio\Documents\TesteImposto\UnitTestCassioCarielo\bin\Debug\UnitTestCassioCarielo.dll.config

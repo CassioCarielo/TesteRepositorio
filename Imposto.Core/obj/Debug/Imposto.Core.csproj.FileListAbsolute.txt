@@ -1,0 +1,6 @@
+C:\Users\Cassio\Documents\TesteImposto\Imposto.Core\bin\Debug\Imposto.Core.dll
+C:\Users\Cassio\Documents\TesteImposto\Imposto.Core\bin\Debug\Imposto.Core.pdb
+C:\Users\Cassio\Documents\TesteImposto\Imposto.Core\obj\Debug\Imposto.Core.dll
+C:\Users\Cassio\Documents\TesteImposto\Imposto.Core\obj\Debug\Imposto.Core.pdb
+C:\Users\Cassio\Documents\TesteImposto\Imposto.Core\bin\Debug\Imposto.Core.dll.config
+C:\Users\Cassio\Documents\TesteImposto\Imposto.Core\obj\Debug\Imposto.Core.csprojResolveAssemblyReference.cache

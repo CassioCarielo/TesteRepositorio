@@ -39,7 +39,7 @@ BEGIN
            ,@pEstadoDestino
            ,@pEstadoOrigem)
 
-		SET @pId = @@IDENTITY
+		SET @pId = SCOPE_IDENTITY()
 	END
 	ELSE
 	BEGIN
